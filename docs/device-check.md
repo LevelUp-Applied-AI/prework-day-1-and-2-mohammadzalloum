@@ -33,8 +33,10 @@
  ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ <img width="932" height="172" alt="image" src="https://github.com/user-attachments/assets/acab2d9e-6f6c-45d1-a4f0-7dd2394fdc81" />
+] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="727" height="152" alt="image" src="https://github.com/user-attachments/assets/93f05df6-bac2-4094-8b1e-66ad2b981101" />
+] Screenshot: `wsl --status` output
 
 ---
 
