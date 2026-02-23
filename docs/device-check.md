@@ -16,7 +16,7 @@
 | CPU Model | 13th gen intel(R) core(tm) i5-13420H |
 | CPU Cores | 8 |
 | Free Disk Space  | 105GB |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |123.75 |
+| Internet Speed (Download) 123.75 |
 
 ---
 
