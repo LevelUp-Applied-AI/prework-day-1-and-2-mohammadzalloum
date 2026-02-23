@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [mohammad zalloum]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-2-23]
+**GitHub username:** [mohammadzalloum]
 
 ---
 
@@ -10,23 +10,27 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | Windows 11 22H2 |
+| OS Build / Version | 25H2 | 
+| RAM |16 GB |
+| CPU Model | 13th gen intel(R) core(tm) i5-13420H |
+| CPU Cores | 8 |
+| Free Disk Space  | 105GB |
+| Internet Speed (Download) | (from speedtest.net — Mbps) |123.75 |
 
 ---
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [<img width="1273" height="806" alt="image" src="https://github.com/user-attachments/assets/9ac27c20-3ec3-4f98-bc04-481157ab2c18" />
+ ] Screenshot: OS version
+- [ <img width="1321" height="877" alt="Screenshot 2026-02-23 112459" src="https://github.com/user-attachments/assets/82c7c239-2d84-49e9-b917-5e678a2b1ee1" />
+] Screenshot: RAM and CPU details
+- [<img width="1328" height="890" alt="Screenshot 2026-02-23 112508" src="https://github.com/user-attachments/assets/153f3200-a018-4f77-aa6c-2c08e334600e" />
+ ] Screenshot: Free disk space
+- [<img width="1267" height="668" alt="image" src="https://github.com/user-attachments/assets/7a977854-b32d-4595-899f-4a1b41e08ed4" />] Screenshot: Internet speed test result
+- [<img width="1911" height="858" alt="image" src="https://github.com/user-attachments/assets/73339a5e-54ef-4043-a5bb-5c54e7c9c9d0" />
+ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
