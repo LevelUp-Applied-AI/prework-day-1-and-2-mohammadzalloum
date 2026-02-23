@@ -26,8 +26,9 @@
 ] Screenshot: OS version
 - [<img width="573" height="30" alt="image" src="https://github.com/user-attachments/assets/4e2dc075-8b4b-452d-9cbd-04eec06603ef" />
 ] Screenshot: RAM and CPU details
-- [<img width="1328" height="890" alt="Screenshot 2026-02-23 112508" src="https://github.com/user-attachments/assets/153f3200-a018-4f77-aa6c-2c08e334600e" />
- ] Screenshot: Free disk space
+- [<img width="1547" height="177" alt="image" src="https://github.com/user-attachments/assets/6623e4e9-b8f5-493f-ba1e-455da52473e9" />
+<img width="1547" height="177" alt="image" src="https://github.com/user-attachments/assets/6623e4e9-b8f5-493f-ba1e-455da52473e9" />
+] Screenshot: Free disk space
 - [<img width="1267" height="668" alt="image" src="https://github.com/user-attachments/assets/7a977854-b32d-4595-899f-4a1b41e08ed4" />] Screenshot: Internet speed test result
 - [<img width="1092" height="52" alt="image" src="https://github.com/user-attachments/assets/c88da144-304f-4767-a139-6f3942f02fbc" />
 ] Screenshot: Admin rights confirmed
