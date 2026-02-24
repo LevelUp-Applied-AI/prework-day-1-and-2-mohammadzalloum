@@ -1,12 +1,12 @@
-\# Git Setup Log — \[Your Name]
+\# Git Setup Log — \[mohammad zalloum]
 
 
 
 \*\*Program:\*\* AI.SPIRE Pre-Work
 
-\*\*Date completed:\*\* \[YYYY-MM-DD]
+\*\*Date completed:\*\* \[2026-02-24]
 
-\*\*GitHub username:\*\* \[your-github-username]
+\*\*GitHub username:\*\* \[mohammad_zalloum]
 
 
 
@@ -26,11 +26,11 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 |------------|------------|
 
-| `user.name` | |
+| `user.name` |mohammad zalloum |
 
-| `user.email` | |
+| `user.email` |mohammad.zalloum098@gmail.com |
 
-| `core.autocrlf` | |
+| `core.autocrlf` | true |
 
 
 
@@ -46,11 +46,11 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 |-------|------------|
 
-| Operating system | (e.g., Windows 11, macOS 14.4, Ubuntu 22.04) |
+| Operating system | ( Windows 11) |
 
-| Terminal used | (e.g., Git Bash, macOS Terminal, bash on Ubuntu) |
+| Terminal used | ( bash on Ubuntu) |
 
-| Git version (`git --version`) | |
+| Git version (`git --version`) | git version 2.52.0.windows.1|
 
 
 
@@ -62,7 +62,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 
 
-\- \[ ] Personal Access Token created in GitHub Settings
+\- \[] Personal Access Token created in GitHub Settings
 
 \- \[ ] PAT stored securely (password manager or secure notes)
 
