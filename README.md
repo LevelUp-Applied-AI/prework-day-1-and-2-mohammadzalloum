@@ -32,10 +32,10 @@ Configure the pull request:
 
 ## About
 
-[One paragraph: who you are and what this repository is for.]
+[One paragraph: I'm mohammad zalloum and this repo contain information about me ]
 
 ## Setup
 
 ```bash
-git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
-cd <your-username>-prework
+git clone https://github.com/LevelUp-Applied-AI/mohammadzalloum-prework.git
+cd <mohammadzalloum>-prework
